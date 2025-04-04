@@ -2,9 +2,9 @@
 
 ## 🌟 Highlighted Projects
 
-● [Apple E-commerce](https://github.com/AvramenkoMarina/phone_catalog)
-● [To-do App](https://github.com/AvramenkoMarina/todo_app)
-● [Landing Page](https://github.com/AvramenkoMarina/landing_page)
+● [Apple E-commerce](https://github.com/AvramenkoMarina/phone_catalog)  
+● [To-do App](https://github.com/AvramenkoMarina/todo_app)  
+● [Landing Page](https://github.com/AvramenkoMarina/landing_page)  
 ● [App-weather](https://github.com/AvramenkoMarina/app-weather)
 
 ## 🛠️ Skills
