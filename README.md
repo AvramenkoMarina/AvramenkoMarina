@@ -6,6 +6,7 @@
 - [To-do App](https://github.com/AvramenkoMarina/todo_app)
 - [Landing Page](https://github.com/AvramenkoMarina/landing_page)
 - [App-weather](https://github.com/AvramenkoMarina/app-weather)
+- [IMDb clone](https://github.com/AvramenkoMarina/imdb-next)
 
 ## 🔥 Skills
 - JavaScript, TypeScript, React, Next.js, Redux  
