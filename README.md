@@ -4,7 +4,7 @@
 
 - [Apple E-commerce](https://github.com/AvramenkoMarina/phone_catalog)
 - [To-do App](https://github.com/AvramenkoMarina/todo_app)
-- [Landing Page](https://github.com/AvramenkoMarina/landing_page)
+- [Landing Page](https://github.com/AvramenkoMarina/Sushiman)
 - [App-weather](https://github.com/AvramenkoMarina/app-weather)
 - [IMDb clone](https://github.com/AvramenkoMarina/imdb-next)
 
