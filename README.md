@@ -7,9 +7,10 @@
 - [Landing Page](https://github.com/AvramenkoMarina/Sushiman)
 - [App-weather](https://github.com/AvramenkoMarina/app-weather)
 - [IMDb clone](https://github.com/AvramenkoMarina/imdb-next)
+- [2048 Game](https://github.com/AvramenkoMarina/2048_game)
 
 ## 🔥 Skills
-- JavaScript, TypeScript, React, Next.js, Redux  
+- JavaScript, TypeScript, React, Next.js, Redux, Vue
 - Material UI, Tailwind, SCSS  
 - Git
 
