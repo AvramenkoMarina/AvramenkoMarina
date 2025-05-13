@@ -4,7 +4,8 @@
 
 - [Apple E-commerce](https://github.com/AvramenkoMarina/phone_catalog)
 - [To-do App](https://github.com/AvramenkoMarina/todo_app)
-- [Landing Page](https://github.com/AvramenkoMarina/Sushiman)
+- [Landing Page Sushiman](https://github.com/AvramenkoMarina/Sushiman)
+- [Landing Page VirtualR](https://github.com/AvramenkoMarina/VirtualR)
 - [App-weather](https://github.com/AvramenkoMarina/weather_react)
 - [IMDb clone](https://github.com/AvramenkoMarina/imdb-next)
 - [2048 Game](https://github.com/AvramenkoMarina/2048_game)
