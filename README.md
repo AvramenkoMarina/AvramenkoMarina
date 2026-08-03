@@ -1,4 +1,4 @@
-## Hi there! I'm Maryna, a passionate frontend developer with a love for creating solutions to complex problems.
+## Hi there! I'm Maryna, a passionate web developer with a love for creating solutions to complex problems.
 
 ## ✨ Highlighted Projects
 
